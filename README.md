@@ -50,5 +50,6 @@ Nhấn nút "Delete" và xác nhận.
 Tìm kiếm sinh viên:
 
 Sử dụng các trường tìm kiếm để lọc sinh viên theo ID, tên hoặc khoa.
-Đóng góp
+
+## Đóng góp
 Nếu bạn muốn đóng góp cho dự án, vui lòng tạo một pull request hoặc mở một issue trên GitHub.
