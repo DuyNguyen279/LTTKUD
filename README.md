@@ -35,15 +35,18 @@ Thêm sinh viên:
 
 Nhấn nút "Add" để mở form thêm sinh viên.
 Điền thông tin và nhấn "Save".
+
 Sửa thông tin sinh viên:
 
 Chọn sinh viên từ bảng.
 Nhấn nút "Edit" để mở form chỉnh sửa.
 Cập nhật thông tin và nhấn "Save".
+
 Xóa sinh viên:
 
 Chọn sinh viên từ bảng.
 Nhấn nút "Delete" và xác nhận.
+
 Tìm kiếm sinh viên:
 
 Sử dụng các trường tìm kiếm để lọc sinh viên theo ID, tên hoặc khoa.
