@@ -30,7 +30,7 @@ Cập nhật thông tin kết nối trong file dbconnect.py.
 3 Chạy ứng dụng
 python main.py
 
-##Hướng dẫn sử dụng
+## Hướng dẫn sử dụng
 Thêm sinh viên:
 
 Nhấn nút "Add" để mở form thêm sinh viên.
